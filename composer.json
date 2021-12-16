@@ -1,0 +1,12 @@
+{
+    "name": "shizu/quest-twig2",
+    "require": {
+        "twig/twig": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Nicolas",
+            "email": "nicolas.roussel.pro@gmail.com"
+        }
+    ]
+}
